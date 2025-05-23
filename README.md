@@ -20,7 +20,17 @@
 
 ---
 
-## 1. Career Counselling
+ABOUT Me
+
+My name is Linda Kayembe, and I am passionate about learning new languages and solving
+complex problems. I seek opportunities that blend creativity, collaboration, and innovation to
+improve business processes and software solutions. With a growing expertise in IT
+Governance, coding, and software design, my goal is to contribute to the ICT industry by
+leveraging my technical knowledge and governance principles to support secure, efficient,
+and compliant technology environments. I thrive in roles that challenge me to drive impactful
+change and continuous improvement.
+
+### 1. Career Counselling
 
 ### ✅ Evidence  
 ![Career Counselling Evidence](./createcv.PNG)
