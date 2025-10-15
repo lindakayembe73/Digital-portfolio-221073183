@@ -1,117 +1,144 @@
-# 🌟 PRP370S Digital Portfolio – Work Readiness Module
+**🌟 Digital Portfolio – PRP370S (Project Presentation 3)**
 
-**Name:** Linda Ngenda Mwadi Kayembe  
-**Student Number:** 221073183  
-**Module:** Project Presentation 3 (PRP370S)  
-**Lecturer:** P. Inderlal  
-**Date:** May 2025  
+**Student:** Linda Ngenda Mwadi Kayembe
+**Qualification:** Diploma in Information and Communication Technology
+**Institution:** Cape Peninsula University of Technology (CPUT)
+**Lecturer:** P. Inderlal
+**Date:** November 2025
 **Qualification:** Diploma in Information and Communication Technology  
 
 ---
+**💫 About Me**
 
-## 📚 Table of Contents
+Hello, I’m **Linda Kayembe**, an aspiring ICT professional passionate about innovation, excellence, and growth. I believe that professionalism is not just about skill — it’s about how you **communicate, connect, and carry yourself** in every opportunity you encounter.
 
-1. [Career Counselling](#1-career-counselling)
-2. [Skills and Interests](#2-skills-and-interests)
-3. [Personality Assessment](#3-personality-assessment)
-4. [Create a CV](#4-create-a-cv)
-5. [CV Submission](#5-cv-submission)
-6. [Mock Interview Video](#6-mock-interview-video)
+Through this Work Readiness programme, I’ve grown from a student into a **career-ready** individual, capable of presenting myself with confidence, purpose, and authenticity.
 
----
+**📍 Location:** South Africa
+**💼 Career Goal:** To become a skilled professional in Information and Communication Technology, contributing to impactful digital solutions.
+**🔗 LinkedIn:** View My LinkedIn Profile
+ (https://www.linkedin.com/in/linda-kayembe-bb5392160/)
+**📧 Contact:** linda@mgit.co.za
 
-ABOUT Me
 
-My name is Linda Kayembe, and I am passionate about learning new languages and solving
-complex problems. I seek opportunities that blend creativity, collaboration, and innovation to
-improve business processes and software solutions. With a growing expertise in IT
-Governance, coding, and software design, my goal is to contribute to the ICT industry by
-leveraging my technical knowledge and governance principles to support secure, efficient,
-and compliant technology environments. I thrive in roles that challenge me to drive impactful
-change and continuous improvement.
+## 💼 Introduction
 
-### 1. Career Counselling
+Welcome to my **Work Readiness Digital Portfolio**, a reflection of my professional growth and preparation for the ICT industry. This portfolio showcases my ability to communicate effectively, perform in interviews, network professionally, and apply workplace etiquette — all essential for a successful career.
 
-### ✅ Evidence  
-![Career Counselling Evidence](./createcv.PNG)
-
-### 💬 Reflection (STAR Technique)  
-**S**ituation: I was unsure which ICT career path to pursue after graduation.  
-**T**ask: I had to explore career options and create a career development plan.  
-**A**ction: I completed the career counselling quiz and activities, identified my core goals, values, and action plan using the SMART technique.  
-**R**esult: I discovered that I’m best suited for roles like Business Analyst or IT Project Manager and now have a clear career plan to achieve them.
+Each section includes **evidence of learning** and **a reflective analysis** using the **STAR Technique** (Situation, Task, Action, Result). This portfolio was created to demonstrate my readiness to enter the professional world with confidence, skill, and integrity.
 
 ---
 
-## 2. Skills and Interests
+## 🗂️ Table of Contents
 
-### ✅ Evidence  
-![Skills and Interests](./Skills%20and%20Interest.PNG)
-
-### 💬 Reflection (STAR Technique)  
-**S**ituation: I needed to identify what skills and interests align with a fulfilling ICT career.  
-**T**ask: Complete self-assessments on adaptive, technical, and transferable skills, and map out vocational interests.  
-**A**ction: I reflected on my top skills like analytical thinking, communication, and organization. My interest areas were **Social**, **Conventional**, and **Investigative**.  
-**R**esult: I realized I thrive in roles involving problem-solving, structure, and people—ideal for careers in IT consulting or systems support.
+1. **[Business Communication]**(#business-communication)
+2. **[Interview Skills]**(#interview-skills)
+3. **[Mock Interview]**(#mock-interview)
+4. **[Professional Networking]**(#professional-networking)
+5. **[Workplace Etiquette]**(#workplace-etiquette)
+6. **[Conclusion]**(#conclusion)
 
 ---
 
-## 3. Personality Assessment
+## 📝 1. Business Communication
 
-### ✅ Evidence  
-![Personality Assessment 1](./Personalityassessment.PNG)  
-![Personality Assessment 2](./Personalityassessment2.PNG)
+### 🧾 Evidence
+*[Email Send](./business.PNG)
+* [CV Reviews](./CV%20REVIEWs.docx)
+* [CV Submission Screenshot](./CVsubmision.PNG)
+* [Email Correspondence](./EMAIL.PNG)
 
-### 💬 Reflection (STAR Technique)  
-**S**ituation: I wanted to understand how my personality influences my career fit.  
-**T**ask: Take the MBTI and DISC personality tests to assess strengths and preferences.  
-**A**ction: I completed both quizzes and learned that I am likely an INFJ/ISFJ type—organized, purpose-driven, and empathetic.  
-**R**esult: This aligns with roles where I lead with structure and purpose, such as team lead, educator, or UX analyst.
+These artefacts show how I developed and submitted a professional CV and email, demonstrating my ability to communicate clearly, formally, and with professionalism.
 
----
+### 💬 Reflection (STAR Technique)
 
-## 4. Create a CV
-
-### ✅ Evidence  
-- [CV REVIEW.docx](./CV%20REVIEW.docx) – Original CV  
-- [CV REVIEWs.docx](./CV%20REVIEWs.docx) – Updated CV after feedback  
-- ![Create CV Screenshot](./createcv.PNG)
-
-### 💬 Reflection (STAR Technique)  
-**S**ituation: My initial CV lacked professional formatting and key information.  
-**T**ask: I had to revise my CV to meet industry standards using feedback and best practices.  
-**A**tion: I included relevant sections (education, experience, skills) and improved layout and grammar.  
-**R**esult: I now have a polished CV that highlights my achievements and is ready to submit for internships and job applications.
+**Situation:** I was required to prepare and submit a professional CV and formal email for review.
+**Task:** My goal was to create a CV that accurately reflected my skills and to communicate in a business-appropriate manner.
+**Action:** I applied techniques learned in the Work Readiness sessions to write a polished CV and a concise, courteous email. I ensured that my tone was respectful and professional.
+**Result:** I received positive feedback for my presentation and professionalism, improving my written communication confidence and understanding of workplace expectations.
 
 ---
 
-## 5. CV Submission
+## 💡 2. Interview Skills
 
-### ✅ Evidence  
-![CV Submission](./CVsubmision.PNG)
+### 🧾 Evidence
 
-### 💬 Reflection (STAR Technique)  
-**S**ituation: As part of my course, I was required to submit a final professional CV.  
-**T**ask: Ensure the correct and updated CV was submitted through the appropriate platform.  
-**A**ction: I confirmed my document version, followed upload instructions, and submitted before the deadline.  
-**R**esult: I successfully submitted my CV on time and gained practical experience preparing job applications.
+* [Interview Preparation Questions](./Interview%20preparation%20questions.pdf)
+* [Interview Invitation Email](./interview%20invitation.PNG)
 
+These artefacts highlight how I prepared for interviews and handled formal communication with potential employers.
 
+### 💬 Reflection (STAR Technique)
 
-## 6. Mock Interview Video
+**Situation:** I needed to prepare for a simulated professional interview.
+**Task:** My aim was to demonstrate preparedness, confidence, and understanding of potential interview questions.
+**Action:** I studied interview preparation material, practiced answering questions, and reviewed common behavioral interview examples.
+**Result:** During the interview, I was composed, confident, and able to express my strengths effectively. This preparation helped me understand how preparation directly influences performance.
 
-### ✅ Evidence  
-🎥 [Watch Mock Interview – Linda.mp4](./Linda.mp4)
+---
 
-### 💬 Reflection (STAR Technique)  
-**S**ituation: I had never practiced for a real job interview before.  
-**T**ask: Record a mock interview video to simulate a real ICT job interview experience.  
-**A**tion: I researched common interview questions, dressed professionally, and practiced my delivery before recording.  
-**R**esult: I improved my confidence, body language, and verbal communication, and I now feel more prepared for real-life interviews.
+## 🎥 3. Mock Interview
 
+### 🧾 Evidence
 
-## ✅ Final Reflection
+* [Mock Interview Video](./Linda.mp4)
+* [Self-Assessment Form](./selfassess.PNG)
+* [Additional Reflection](./Personalityassessment2.PNG)
 
-This portfolio represents my complete journey through the Work Readiness module. From assessing my career options to building a professional CV and practicing interview skills, I’ve grown in confidence, clarity, and career preparedness. I’m now ready to take the next step in the ICT industry.
+These artefacts demonstrate my ability to conduct myself professionally during an interview and to evaluate my own performance critically.
 
-Thank you for viewing my portfolio!
+### 💬 Reflection (STAR Technique)
+
+**Situation:** I participated in a mock interview designed to simulate a real-world job interview experience.
+**Task:** My objective was to practice communicating confidently and to reflect on areas for improvement.
+**Action:** I prepared thoroughly, dressed professionally, and maintained positive body language. Afterward, I completed a self-assessment to evaluate my strengths and weaknesses.
+**Result:** I learned how to remain composed under pressure and improved my articulation and non-verbal communication. The mock interview gave me valuable insight into real-world expectations and boosted my confidence for future opportunities.
+
+---
+
+## 🌐 4. Professional Networking
+
+### 🧾 Evidence
+
+* [LinkedIn Profile Screenshot](./Linked.PNG)
+* [LinkedIn Connections](./Link.PNG)
+* [Professional Email Communication](./EMAIL.PNG)
+
+These artefacts showcase how I’ve built and maintained a professional online presence through LinkedIn and professional correspondence.
+
+### 💬 Reflection (STAR Technique)
+
+**Situation:** I needed to establish a professional network within the ICT industry.
+**Task:** My task was to create a LinkedIn profile and connect with professionals relevant to my field.
+**Action:** I optimized my profile with a professional photo, skills, and achievements, and engaged with industry posts. I also maintained communication through professional email exchanges.
+**Result:** I expanded my professional network and learned how valuable networking is for personal growth, mentorship, and job opportunities. Networking taught me that success is not only about what you know, but also who you connect with meaningfully.
+
+---
+
+## 🏢 5. Workplace Etiquette
+
+### 🧾 Evidence
+
+* [Program Developed](./program.PNG)
+* [Supervisor Feedback](./Feedback.JPEG)
+
+These artefacts reflect how I applied workplace etiquette and professionalism while developing a project and receiving supervisor feedback.
+
+### 💬 Reflection (STAR Technique)
+
+**Situation:** I was involved in a workplace project where professionalism and communication were essential because as a trainer you need to communicate well and perfessional with Clients.
+**Task:** My responsibility was to follow etiquette, meet deadlines, and communicate progress effectively.
+**Action:** I practiced punctuality, responded respectfully to feedback, and maintained a positive attitude throughout the project.
+**Result:** My supervisor acknowledged my professionalism and teamwork. I gained a deeper understanding of the importance of respect, accountability, and collaboration in maintaining a positive work environment.
+
+---
+
+## 🎯 Conclusion
+
+This digital portfolio represents my journey toward **work readiness** and professional excellence. I have grown in communication, confidence, and competence. Through the evidence presented, I have proven my ability to **OWN my professional growth**, apply feedback, and continuously improve.
+
+As I prepare to enter the ICT industry, I am confident that the skills, mindset, and professionalism developed through this program will help me excel and make a meaningful impact in any organization I join.
+
+> *“Success is not something you wait for — it’s something you prepare for.”*
+
+---
