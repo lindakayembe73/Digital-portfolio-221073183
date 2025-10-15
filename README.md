@@ -18,7 +18,7 @@ Through this Work Readiness programme, I’ve grown from a student into a **care
 **💼 Career Goal:** To become a skilled professional in Information and Communication Technology, contributing to impactful digital solutions.
 **🔗 LinkedIn:** View My LinkedIn Profile
  (https://www.linkedin.com/in/linda-kayembe-bb5392160/)
-**📧 Contact:** linda@mgit.co.za
+ **📧 Contact:** linda@mgit.co.za
 
 
 ## 💼 Introduction
@@ -63,7 +63,7 @@ These artefacts show how I developed and submitted a professional CV and email, 
 
 ### 🧾 Evidence
 
-* [Interview Preparation Questions](./Interview%20preparation%20questions.pdf)
+** [Interview Preparation Questions](./Interview%20preparation%20questions.pdf)
 * [Interview Invitation Email](./interview%20invitation.PNG)
 
 These artefacts highlight how I prepared for interviews and handled formal communication with potential employers.
