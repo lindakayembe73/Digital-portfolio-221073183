@@ -120,7 +120,7 @@ These artefacts showcase how I’ve built and maintained a professional online p
 ### 🧾 Evidence
 
 * [Program Developed](./program.PNG)
-* [Supervisor Feedback](./Feedback.JPEG)
+* [Supervisor Feedback](./Feedback.jpeg)
 
 These artefacts reflect how I applied workplace etiquette and professionalism while developing a project and receiving supervisor feedback.
 
