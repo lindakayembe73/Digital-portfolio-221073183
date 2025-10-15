@@ -14,11 +14,11 @@ Hello, I’m **Linda Kayembe**, an aspiring ICT professional passionate about in
 
 Through this Work Readiness programme, I’ve grown from a student into a **career-ready** individual, capable of presenting myself with confidence, purpose, and authenticity.
 
-**📍 Location:** South Africa
-**💼 Career Goal:** To become a skilled professional in Information and Communication Technology, contributing to impactful digital solutions.
-**🔗 LinkedIn:** View My LinkedIn Profile
- (https://www.linkedin.com/in/linda-kayembe-bb5392160/)
- **📧 Contact:** linda@mgit.co.za
+📍 **Location:** South Africa  
+💼 **Career Goal:** To become a skilled professional in Information and Communication Technology, contributing to impactful digital solutions.  
+🔗 **LinkedIn:** [View My LinkedIn Profile](https://www.linkedin.com/in/linda-kayembe-bb5392160/)  
+📧 **Contact:** linda@mgit.co.za  
+
 
 
 ## 💼 Introduction
