@@ -43,7 +43,7 @@ Each section includes **evidence of learning** and **a reflective analysis** usi
 ## 📝 1. Business Communication
 
 ### 🧾 Evidence
-*[Email Send](./business.PNG)
+*[Email Send](./businesscommunication.PNG)
 * [CV Reviews](./CV%20REVIEWs.docx)
 * [CV Submission Screenshot](./CVsubmision.PNG)
 * [Email Correspondence](./EMAIL.PNG)
