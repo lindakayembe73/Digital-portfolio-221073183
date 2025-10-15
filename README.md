@@ -1,11 +1,11 @@
 **🌟 Digital Portfolio – PRP370S (Project Presentation 3)**
 
-**Student:** Linda Ngenda Mwadi Kayembe
-**Qualification:** Diploma in Information and Communication Technology
-**Institution:** Cape Peninsula University of Technology (CPUT)
-**Lecturer:** P. Inderlal
-**Date:** November 2025
+**Student:** Linda Ngenda Mwadi Kayembe  
 **Qualification:** Diploma in Information and Communication Technology  
+**Institution:** Cape Peninsula University of Technology (CPUT)  
+**Lecturer:** P. Inderlal  
+**Date:** November 2025  
+
 
 ---
 **💫 About Me**
